@@ -26,5 +26,8 @@
     "@babel/preset-env": "^7.8.4",
     "@babel/runtime": "^7.8.4",
     "babel-watch": "^7.0.0"
+  },
+  "dependencies": {
+    "download-git-repo": "^3.0.2"
   }
 }
