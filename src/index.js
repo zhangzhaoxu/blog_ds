@@ -1,6 +1,5 @@
 const http = require('http')
 const downloadRepo = require('download-git-repo')
-const querystring = require('querystring')
 const { execSync } = require('child_process')
 const fs = require('fs')
 const path = require('path')
